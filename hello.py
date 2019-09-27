@@ -1,1 +1,2 @@
-print("hello, world")
+y = 11118
+print("hello" % y "world")
